@@ -1,2 +1,2 @@
 # test-repo2
-test2
+THIS IS FROM REPO2 README
